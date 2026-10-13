@@ -1,0 +1,836 @@
+{
+ "province": {
+  "name_en": "Pathum Thani",
+  "name_th": "ปทุมธานี",
+  "name_rtgs": "Pathum Thani"
+ },
+ "prepared": "2026-10-13",
+ "people": [
+  {
+   "name_en": "Saming Poe",
+   "name_th": "สมิงเปอ",
+   "name_rtgs": "Saming Poe",
+   "years": null,
+   "tie": "Mon leader who settled at Ban Sam Khok",
+   "one_line_en": "Leads 11 Mon companions and about ten thousand Mon family members to Ban Sam Khok in the reign of King Narai, around 1660.",
+   "one_line_th": "นำชาวมอญ 11 คนและครอบครัวราวหนึ่งหมื่นคนมาตั้งบ้านที่บ้านสามโคก ในรัชสมัยสมเด็จพระนารายณ์ ราว พ.ศ. 2203",
+   "source_url": "https://th.wikipedia.org/wiki/อำเภอสามโคก",
+   "quote": "สมิงเปอกับพรรคพวกมอญด้วยกัน 11 คน"
+  },
+  {
+   "name_en": "Phaya Cheng-Talaseng",
+   "name_th": "พญาเจ่ง ตะละเส่ง",
+   "name_rtgs": "Phaya Cheng Talaseng",
+   "years": null,
+   "tie": "Mon leader of the 1774 migration (name as the source writes it)",
+   "one_line_en": "Heads the Mon migration of 1774, in the reign of King Taksin, with Phraya Klang Mueang; part of the group settles at Mueang Sam Khok.",
+   "one_line_th": "เป็นหัวหน้าชาวมอญที่อพยพเข้ามาใน พ.ศ. 2317 สมัยสมเด็จพระเจ้าตากสิน ร่วมกับพระยากลางเมือง ส่วนหนึ่งตั้งบ้านเรือนที่เมืองสามโคก",
+   "source_url": "https://th.wikipedia.org/wiki/อำเภอสามโคก",
+   "quote": "พญาเจ่ง - ตะละเส่งกับพระยากลางเมืองเป็นหัวหน้า"
+  },
+  {
+   "name_en": "Prince Rangsit Prayurasakdi, Prince of Chai Nat",
+   "name_th": "พระองค์เจ้ารังสิตประยูรศักดิ์ กรมพระยาชัยนาทนเรนทร",
+   "name_rtgs": "Phra Ong Chao Rangsit Prayurasak Krom Phraya Chainat Narenthon",
+   "years": "1885-1951",
+   "tie": "namesake of the Rangsit canal",
+   "one_line_en": "Son of King Chulalongkorn and founder of the Ministry of Public Health; the Rangsit canal carries his name.",
+   "one_line_th": "พระราชโอรสในพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว ผู้ก่อตั้งกระทรวงสาธารณสุข คลองรังสิตใช้พระนามของพระองค์",
+   "source_url": "https://en.wikipedia.org/wiki/Rangsit_Canal",
+   "quote": "in honour of his son, Rangsit, Prince of Chai Nat",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Rangsit_Prayurasakdi",
+     "quote": "founded the Public Health Ministry and served as Regent of Thailand"
+    }
+   ]
+  },
+  {
+   "name_en": "Prince Sai Snidvongs",
+   "name_th": "พระวรวงศ์เธอ พระองค์เจ้าสายสนิทวงศ์",
+   "name_rtgs": "Phra Worawong Thoe Phra Ong Chao Sai Sanitwong",
+   "years": null,
+   "tie": "president of the Rangsit canal project",
+   "one_line_en": "Receives the order to dig the Rangsit canal in 1890 and heads the project; his grandson is Prince Rangsit.",
+   "one_line_th": "ได้รับมอบหมายให้ดูแลโครงการขุดคลองรังสิตเมื่อ พ.ศ. 2433 เป็นพระอัยกาฝ่ายมารดาของพระองค์เจ้ารังสิตประยูรศักดิ์",
+   "source_url": "https://en.wikipedia.org/wiki/Rangsit_Canal",
+   "quote": "assigned Prince Sai Sanitvongse (maternal grandfather of Prince Rangsit) as the project president"
+  },
+  {
+   "name_en": "Erwin Müller",
+   "name_th": "เออร์วิน มูลเลอร์ (พระปฏิบัติราชประสงค์)",
+   "name_rtgs": "Oe-win Mun-loe (Phra Patibat Ratchaprasong)",
+   "years": null,
+   "tie": "shareholder of the company that dug the Rangsit canal",
+   "one_line_en": "Named in 1892 as a shareholder of the Siam Canals and Irrigation Company, which dug the Rangsit canal system.",
+   "one_line_th": "เป็นผู้ถือหุ้นใน พ.ศ. 2435 ของบริษัทขุดคลองแลคูนาสยาม ผู้ขุดระบบคลองรังสิต",
+   "source_url": "https://th.wikipedia.org/wiki/คลองรังสิตประยูรศักดิ์",
+   "quote": "พระปฏิบัติราชประสงค์ (เออร์วิน มูลเลอร์ (Erwin Müller))"
+  },
+  {
+   "name_en": "Sonthi Boonyaratglin",
+   "name_th": "สนธิ บุญยรัตกลิน",
+   "name_rtgs": "Sonthi Bunyaratkalin",
+   "years": "born 1946",
+   "tie": "born in Pathum Thani",
+   "one_line_en": "Army commander-in-chief who leads the coup of 19 September 2006.",
+   "one_line_th": "อดีตผู้บัญชาการทหารบก ผู้นำการรัฐประหารเมื่อวันที่ 19 กันยายน พ.ศ. 2549",
+   "source_url": "https://en.wikipedia.org/wiki/Sonthi_Boonyaratglin",
+   "quote": "Pathum Thani , Thailand Party Chartthaipattana (2018–present)",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Sonthi_Boonyaratglin",
+     "quote": "On 19 September 2006, he became the de facto head of government of Thailand"
+    }
+   ]
+  },
+  {
+   "name_en": "Paiboon Butkhan",
+   "name_th": "ไพบูลย์ บุตรขัน",
+   "name_rtgs": "Phaibun Butkhan",
+   "years": "1918-1972",
+   "tie": "born at Ban Thong Khung, Sam Khok",
+   "one_line_en": "Composer, playwright and screenwriter, honoured as Burapasilpin in the performing arts in 2015.",
+   "one_line_th": "นักแต่งเพลง นักเขียนบท และผู้เขียนบทภาพยนตร์ ได้รับเชิดชูเป็นบูรพศิลปินสาขาศิลปะการแสดง พ.ศ. 2558",
+   "source_url": "https://en.wikipedia.org/wiki/Paiboon_Butkhan",
+   "quote": "was born at Ban Thong Khung, Chiang Rak Yai Subdistrict , Sam Khok District",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Paiboon_Butkhan",
+     "quote": "The number one genius composer in Thailand"
+    }
+   ]
+  },
+  {
+   "name_en": "Ekkapot Wongnak",
+   "name_th": "เอกพจน์ วงศ์นาค",
+   "name_rtgs": "Ekkaphot Wongnak",
+   "years": "born 1969",
+   "tie": "born in Pathum Thani; mayor of Khlong Luang",
+   "one_line_en": "Luk thung singer of the late 1980s, later a politician and, from 2021, mayor of Khlong Luang municipality.",
+   "one_line_th": "นักร้องลูกทุ่งที่มีชื่อเสียงราว พ.ศ. 2530-2532 ต่อมาเป็นนักการเมือง และเป็นนายกเทศมนตรีเมืองคลองหลวงตั้งแต่ พ.ศ. 2564",
+   "source_url": "https://en.wikipedia.org/wiki/Ekkapot_Wongnak",
+   "quote": "1 June 1969 (age 57) Pathum Thani Province , Thailand",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Ekkapot_Wongnak",
+     "quote": "In 2021, he was elected as mayor of Khlong Luang municipality."
+    }
+   ]
+  },
+  {
+   "name_en": "Sirimongkol Singmanasak",
+   "name_th": "ศิริมงคล สิงห์มนัสศักดิ์",
+   "name_rtgs": "Sirimongkhon Sing-manatsak",
+   "years": "born 1977",
+   "tie": "born in Bueng Yi Tho, Thanyaburi",
+   "one_line_en": "Boxer and world champion in two weight classes: WBC bantamweight in 1997, WBC super-featherweight 2002-2003.",
+   "one_line_th": "นักมวยอาชีพแชมป์โลกสองรุ่น WBC รุ่นแบนตัมเวท พ.ศ. 2540 และรุ่นซูเปอร์เฟเธอร์เวท พ.ศ. 2545-2546",
+   "source_url": "https://en.wikipedia.org/wiki/Sirimongkol_Singmanasak",
+   "quote": "Bueng Yitho , Thanyaburi , Pathum Thani , Thailand",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Sirimongkol_Singmanasak",
+     "quote": "held the World Boxing Council (WBC) bantamweight title in 1997"
+    }
+   ]
+  },
+  {
+   "name_en": "Saen Sor Ploenchit",
+   "name_th": "แสน ส.เพลินจิต",
+   "name_rtgs": "Saen Sor Phloenchit",
+   "years": "born 1971",
+   "tie": "born in Prachathipat, Thanyaburi",
+   "one_line_en": "Boxer who holds the WBA flyweight title from 1994 to 1996.",
+   "one_line_th": "นักมวยอาชีพ ครองแชมป์โลก WBA รุ่นฟลายเวท ระหว่าง พ.ศ. 2537-2539",
+   "source_url": "https://en.wikipedia.org/wiki/Saen_Sor_Ploenchit",
+   "quote": "Prachathipat , Thanyaburi , Pathum Thani , Thailand",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Saen_Sor_Ploenchit",
+     "quote": "He held the WBA flyweight title from 1994 to 1996."
+    }
+   ]
+  },
+  {
+   "name_en": "Sangtiennoi Sor.Rungroj",
+   "name_th": "แสงเทียนน้อย ส.รุ่งโรจน์",
+   "name_rtgs": "Saengthian Noi Sor Rung-rot",
+   "years": "1966-2021",
+   "tie": "born in Pathum Thani; opened a gym there",
+   "one_line_en": "Muay Thai fighter, champion at Lumpinee and Rajadamnern stadiums in two divisions; opens a gym in Pathum Thani after injury ends his career in 2000.",
+   "one_line_th": "นักมวยไทย แชมป์เวทีลุมพินีและราชดำเนินสองรุ่น หลังบาดเจ็บและเลิกชกใน พ.ศ. 2543 เปิดค่ายมวยที่ปทุมธานี",
+   "source_url": "https://en.wikipedia.org/wiki/Sangtiennoi_Sor.Rungroj",
+   "quote": "opened a gym in his native Pathum Thani",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Sangtiennoi_Sor.Rungroj",
+     "quote": "Lumpinee Stadium and Rajadamnern Stadium champion across two divisions"
+    }
+   ]
+  },
+  {
+   "name_en": "Arayha Suparurk (Coco)",
+   "name_th": "อารยะ ศุภฤกษ์",
+   "name_rtgs": "Araya Supharoek",
+   "years": "born 1994",
+   "tie": "born in Pathum Thani",
+   "one_line_en": "Model and pageant titleholder, Miss Grand Thailand 2019 and second runner-up at Miss Grand International 2019.",
+   "one_line_th": "นางแบบและผู้ได้รับตำแหน่งนางงาม มิสแกรนด์ไทยแลนด์ 2019 และรองอันดับ 2 มิสแกรนด์อินเตอร์เนชันแนล 2019",
+   "source_url": "https://en.wikipedia.org/wiki/Arayha_Suparurk",
+   "quote": "May 15, 1994 (age 32) Pathum Thani , Thailand",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Arayha_Suparurk",
+     "quote": "who was crowned Miss Grand Thailand 2019"
+    }
+   ]
+  }
+ ],
+ "legends": [
+  {
+   "title_en": "Sam Khok: the three mounds",
+   "title_th": "สามโคก: โคกสามแห่ง",
+   "title_rtgs": "Sam Khok",
+   "story_en": "The name Sam Khok means 'three mounds'. English Wikipedia says the three mounds were used to make jars. Thai Wikipedia says the old town had three ancient mounds. A Dutch map in a 1726 book labels Sam Khok a pottery-making village.",
+   "story_th": "ชื่อสามโคกแปลว่าโคกสามแห่ง วิกิพีเดียภาษาอังกฤษว่าเป็นโคกสำหรับเผาตุ่มโอ่ง วิกิพีเดียภาษาไทยว่าเมืองเก่ามีโคกโบราณอยู่สามแห่ง แผนที่ดัตช์ในหนังสือ พ.ศ. 2269 ระบุสามโคกว่าเป็นหมู่บ้านทำเครื่องปั้นดินเผา",
+   "place": "Sam Khok",
+   "place_th": "สามโคก",
+   "source_url": "https://en.wikipedia.org/wiki/Sam_Khok_district",
+   "quote": "meaning 'three mounds', refers to the three mounds used to produce jars",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/อำเภอสามโคก",
+     "quote": "เพราะมีโคกโบราณอยู่ในเมือง 3 แห่ง"
+    },
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Sam_Khok_district",
+     "quote": "describes Sam Khok as a Potte Bakkers Drop ('pottery-making village')"
+    }
+   ]
+  },
+  {
+   "title_en": "The lotus offering to Rama II",
+   "title_th": "ดอกบัวถวายรัชกาลที่ 2",
+   "title_rtgs": "Dok Bua Thawai Ratchakan thi Song",
+   "story_en": "King Rama II visits Mueang Sam Khok by river in the 11th lunar month of 1815 and stays at a riverside pavilion near today's Wat Pathum Thong. Mon villagers bring him many lotus flowers. He renames the town Mueang Pratum Thani. The Fine Arts Department infers 16 October 1815 as the naming day and notes that no record gives the exact date.",
+   "story_th": "ในเดือน 11 พ.ศ. 2358 รัชกาลที่ 2 เสด็จเมืองสามโคกทางชลมารค ประทับที่พลับพลาริมแม่น้ำใกล้วัดปทุมทองปัจจุบัน ชาวมอญนำดอกบัวหลวงมาถวายเป็นจำนวนมาก พระองค์พระราชทานนามเมืองใหม่ว่าเมืองประทุมธานี กรมศิลปากรสันนิษฐานว่าตรงกับวันที่ 16 ตุลาคม พ.ศ. 2358 โดยไม่มีหลักฐานระบุวันที่แน่นอน",
+   "place": "Sam Khok; Wat Pathum Thong",
+   "place_th": "สามโคก วัดปทุมทอง",
+   "source_url": "https://th.wikipedia.org/wiki/อำเภอสามโคก",
+   "quote": "ทรงรับดอกบัวหลวงจากชาวมอญ",
+   "also": [
+    {
+     "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+     "quote": "ตรงกับวันที่ 16 ตุลาคม พ.ศ.2358"
+    }
+   ]
+  },
+  {
+   "title_en": "The hamsa pole of the Mon temples",
+   "title_th": "เสาหงส์",
+   "title_rtgs": "Sao Hong",
+   "story_en": "Mon temples in Thailand raise a pole topped with a hamsa (hong) to recall Hongsawadi, the city the Mon left behind. A Buddhist legend says the Buddha saw two golden hamsa bathing where the sea then lay and foretold a great city there, later Hongsawadi. The source does not tie the legend to one Pathum Thani temple.",
+   "story_th": "วัดมอญในประเทศไทยปักเสาหงส์เพื่อรำลึกถึงเมืองหงสาวดีที่ต้องจากมา ตำนานเล่าว่าพระพุทธเจ้าทอดพระเนตรเห็นหงส์ทองสองตัวลงเล่นน้ำในที่ซึ่งเป็นทะเล และทรงทำนายว่าจะเป็นมหานคร ต่อมาคือกรุงหงสาวดี แหล่งข้อมูลไม่ระบุวัดในปทุมธานีโดยเฉพาะ",
+   "place": "Mon temples in Thailand",
+   "place_th": "วัดมอญในประเทศไทย",
+   "source_url": "https://th.wikipedia.org/wiki/เสาหงส์",
+   "quote": "สร้างเพื่อรำลึกถึงเมือง หงสาวดี",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/เสาหงส์",
+     "quote": "ได้ทอดพระเนตรเห็นหงส์ทองสองตัวกำลังลงเล่นน้ำ"
+    }
+   ]
+  },
+  {
+   "title_en": "Wat Phai Lom: two Sukhothai merchants and the openbill storks",
+   "title_th": "วัดไผ่ล้อม: เศรษฐีสุโขทัยสองท่านและนกปากห่าง",
+   "title_rtgs": "Wat Phai Lom",
+   "story_en": "A temple legend says two wealthy merchants from Sukhothai, Thao Maha Phrom and Thao Mali, build the temple. The grounds are a wildlife sanctuary where Asian openbill storks nest from November to June. A 1996 survey counted 84,788 birds.",
+   "story_th": "ตำนานเล่าว่าท่านท้าวมหาพรหมกับท่านท้าวมาลี มหาเศรษฐีจากกรุงสุโขทัย สร้างวัดนี้ พื้นที่วัดเป็นเขตห้ามล่าสัตว์ป่า นกปากห่างทำรังช่วงเดือนพฤศจิกายนถึงมิถุนายน การสำรวจ พ.ศ. 2539 พบ 84,788 ตัว",
+   "place": "Wat Phai Lom, Ban Ngio, Sam Khok",
+   "place_th": "วัดไผ่ล้อม ตำบลบ้านงิ้ว อำเภอสามโคก",
+   "source_url": "https://th.wikipedia.org/wiki/วัดไผ่ล้อม_(จังหวัดปทุมธานี)",
+   "quote": "สร้างโดยท่านท้าวมหาพรหมกับท่านท้าวมาลี",
+   "also": [
+    {
+     "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+     "quote": "พบจำนวน ๘๔,๗๘๘ ตัว"
+    },
+    {
+     "source_url": "https://th.wikipedia.org/wiki/วัดไผ่ล้อม_(จังหวัดปทุมธานี)",
+     "quote": "นกปากห่างเริ่มทำรังและผสมพันธุ์"
+    }
+   ]
+  },
+  {
+   "title_en": "Wat Chedi Hoi: the vision of Ratanawadi",
+   "title_th": "วัดเจดีย์หอย: เมืองรัตนาวดี",
+   "title_rtgs": "Wat Chedi Hoi",
+   "story_en": "Abbot Thong Klueng has a vision that the temple site was a large city named Ratanawadi 8 million years ago. Diggers then find giant oyster shells, and he builds them into chedis in 1995, which gives the temple its name.",
+   "story_th": "หลวงพ่อทองกลึงมีนิมิตว่าที่ตั้งวัดเมื่อ 8 ล้านปีก่อนเป็นเมืองใหญ่ชื่อเมืองรัตนาวดี ต่อมามีการขุดพบซากหอยนางรมยักษ์ ท่านนำมาก่อเป็นเจดีย์ใน พ.ศ. 2538 เป็นที่มาของชื่อวัด",
+   "place": "Wat Chedi Hoi, Bo Ngoen, Lat Lum Kaeo",
+   "place_th": "วัดเจดีย์หอย ตำบลบ่อเงิน อำเภอลาดหลุมแก้ว",
+   "source_url": "https://th.wikipedia.org/wiki/วัดเจดีย์หอย",
+   "quote": "เป็นเมืองใหญ่ชื่อเมืองรัตนาวดี",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/วัดเจดีย์หอย",
+     "quote": "ได้มีการขุดพบซากหอยนางรมยักษ์อายุนับล้านปีจำนวนมาก"
+    }
+   ]
+  },
+  {
+   "title_en": "Luang Pho Luea, the Buddha image that remains",
+   "title_th": "หลวงพ่อเหลือ",
+   "title_rtgs": "Luang Pho Luea",
+   "story_en": "Around 1964 thieves cut the heads from the Buddha images in the ubosot at Wat Bot. Only a sandstone Maravichaya image is left, and villagers call it Luang Pho Luea, 'the remaining one'. The image is counted as the guardian Buddha of Pathum Thani.",
+   "story_th": "ราว พ.ศ. 2507 มีโจรลักตัดเศียรพระพุทธรูปในโบสถ์วัดโบสถ์ เหลือเพียงพระพุทธรูปศิลาทรายปางมารวิชัยองค์เดียว ชาวบ้านจึงเรียกว่าหลวงพ่อเหลือ ถือเป็นพระพุทธรูปคู่บ้านคู่เมืองปทุมธานี",
+   "place": "Wat Bot, Bang Krabue, Sam Khok",
+   "place_th": "วัดโบสถ์ ตำบลบางกระบือ อำเภอสามโคก",
+   "source_url": "https://th.wikipedia.org/wiki/วัดโบสถ์_(อำเภอสามโคก)",
+   "quote": "ชาวบ้านจึงเรียกพระพุทธรูปนี้ว่า หลวงพ่อเหลือ",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/วัดโบสถ์_(อำเภอสามโคก)",
+     "quote": "พระพุทธรูปคู่บ้านคู่เมืองปทุมธานี"
+    }
+   ]
+  },
+  {
+   "title_en": "Wat Sing: four Buddha images for four directions",
+   "title_th": "วัดสิงห์: พระประธานสี่ทิศ",
+   "title_rtgs": "Wat Sing",
+   "story_en": "Visitors to Wat Sing pay respect to four main Buddha images set at the four directions: Luang Pho To, Luang Pho Phet, Luang Pho Phuttharatmunee and Phra Phuttha Sirimasaen. Local officials call it the first temple of Mueang Sam Khok.",
+   "story_th": "ผู้มาวัดสิงห์สักการะพระประธานสี่องค์ตามทิศ ได้แก่ หลวงพ่อโต หลวงพ่อเพชร หลวงพ่อพุทธรัตนมุนี และพระพุทธสิริมาแสน เจ้าหน้าที่ในพื้นที่ว่าเป็นวัดแห่งแรกของเมืองสามโคก",
+   "place": "Wat Sing, Sam Khok",
+   "place_th": "วัดสิงห์ ตำบลสามโคก",
+   "source_url": "https://www.thairath.co.th/horoscope/belief/2943520",
+   "quote": "การสักการะพระประธาน 4 องค์สำคัญที่ประดิษฐานอยู่ตามทิศต่างๆ",
+   "also": [
+    {
+     "source_url": "https://www.thairath.co.th/horoscope/belief/2943520",
+     "quote": "ที่นี่เป็นวัดแห่งแรกของเมืองสามโคก"
+    }
+   ]
+  }
+ ],
+ "sites": [
+  {
+   "name_en": "Wat Sing",
+   "name_th": "วัดสิงห์",
+   "name_rtgs": "Wat Sing",
+   "kind": "Mon temple, Ayutthaya-period ubosot",
+   "why_en": "A riverside temple in Sam Khok that receives its boundary consecration on 29 September 1667; the present ubosot dates from 1757.",
+   "why_th": "วัดริมแม่น้ำเจ้าพระยาในสามโคก ได้รับวิสุงคามสีมาเมื่อ 29 กันยายน พ.ศ. 2210 อุโบสถหลังปัจจุบันสร้างเมื่อ พ.ศ. 2300",
+   "lat": 14.05358,
+   "lng": 100.540795,
+   "coords_source": "https://www.wikidata.org/wiki/Q13020873",
+   "source_url": "https://th.wikipedia.org/wiki/วัดสิงห์_(จังหวัดปทุมธานี)",
+   "quote": "เมื่อวันที่ 29 กันยายน พ.ศ. 2210",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/วัดสิงห์_(จังหวัดปทุมธานี)",
+     "quote": "สร้างเมื่อ พ.ศ. 2300"
+    }
+   ]
+  },
+  {
+   "name_en": "Wat Bot (Sam Khok)",
+   "name_th": "วัดโบสถ์ สามโคก",
+   "name_rtgs": "Wat Bot Sam Khok",
+   "kind": "temple on the Chao Phraya",
+   "why_en": "Holds a 28-metre statue of Somdet Phra Buddhacharn (To), built in 2006, and the Luang Pho Luea Buddha image.",
+   "why_th": "มีรูปปั้นสมเด็จพระพุฒาจารย์ (โต) สูง 28 เมตร สร้างเมื่อ พ.ศ. 2549 และหลวงพ่อเหลือ",
+   "lat": 14.113889,
+   "lng": 100.540278,
+   "coords_source": "https://www.wikidata.org/wiki/Q99472369",
+   "source_url": "https://th.wikipedia.org/wiki/วัดโบสถ์_(อำเภอสามโคก)",
+   "quote": "มีความสูงถึง 28 เมตร สร้างเมื่อปี พ.ศ. 2549"
+  },
+  {
+   "name_en": "Wat Phai Lom",
+   "name_th": "วัดไผ่ล้อม",
+   "name_rtgs": "Wat Phai Lom",
+   "kind": "temple and openbill stork colony",
+   "why_en": "Riverside temple of 74 rai in Ban Ngio, Sam Khok. Its grounds, with Wat Ampuwararam, are a no-hunting area declared on 21 July 2008, home to Asian openbill storks.",
+   "why_th": "วัดริมแม่น้ำเจ้าพระยาในตำบลบ้านงิ้ว เนื้อที่ราว 74 ไร่ พื้นที่ร่วมกับวัดอัมพุวรารามเป็นเขตห้ามล่าสัตว์ป่า ประกาศเมื่อ 21 กรกฎาคม พ.ศ. 2551 เป็นถิ่นอาศัยของนกปากห่าง",
+   "lat": 14.0775,
+   "lng": 100.526111,
+   "coords_source": "https://www.wikidata.org/wiki/Q1687252",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "เป็นถิ่นที่อาศัยเก่าแก่ของนกปากห่าง",
+   "also": [
+    {
+     "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+     "quote": "ได้รับการประกาศเมื่อวันที่ 21 กรกฎาคม 2551"
+    }
+   ]
+  },
+  {
+   "name_en": "Wat Chedi Hoi",
+   "name_th": "วัดเจดีย์หอย",
+   "name_rtgs": "Wat Chedi Hoi",
+   "kind": "temple with shell chedis",
+   "why_en": "Founded 20 December 1988 in Lat Lum Kaeo; chedis are built from fossil oyster shells and a museum holds Sam Khok jars.",
+   "why_th": "ตั้งวัดเมื่อ 20 ธันวาคม พ.ศ. 2531 ที่ลาดหลุมแก้ว มีเจดีย์ก่อด้วยซากหอยโบราณ และพิพิธภัณฑ์เก็บตุ่มสามโคก",
+   "lat": 14.114167,
+   "lng": 100.385833,
+   "coords_source": "https://www.wikidata.org/wiki/Q99472357",
+   "source_url": "https://th.wikipedia.org/wiki/วัดเจดีย์หอย",
+   "quote": "ตั้งวัดเมื่อวันที่ 20 ธันวาคม พ.ศ. 2531",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/วัดเจดีย์หอย",
+     "quote": "ตุ่มสามโคก ถ้วยชามดินเผา"
+    }
+   ]
+  },
+  {
+   "name_en": "Wat Phra Dhammakaya",
+   "name_th": "วัดพระธรรมกาย",
+   "name_rtgs": "Wat Phra Thammakai",
+   "kind": "temple",
+   "why_en": "A Mahanikaya temple founded 20 February 1970 in Khlong Sam, Khlong Luang.",
+   "why_th": "วัดมหานิกาย ก่อตั้งเมื่อ 20 กุมภาพันธ์ พ.ศ. 2513 ตั้งอยู่ตำบลคลองสาม อำเภอคลองหลวง",
+   "lat": 14.07315833,
+   "lng": 100.64639167,
+   "coords_source": "https://th.wikipedia.org/wiki/วัดพระธรรมกาย",
+   "source_url": "https://th.wikipedia.org/wiki/วัดพระธรรมกาย",
+   "quote": "ตั้งอยู่ ณ ตำบลคลองสาม อำเภอคลองหลวง จังหวัดปทุมธานี"
+  },
+  {
+   "name_en": "Talat Thai",
+   "name_th": "ตลาดไท",
+   "name_rtgs": "Talat Thai",
+   "kind": "wholesale agricultural market",
+   "why_en": "A 542-rai central market for farm goods at km 42 on Phahonyothin Road, with 21 sub-markets.",
+   "why_th": "ตลาดกลางสินค้าเกษตรเนื้อที่ 542 ไร่ ริมถนนพหลโยธินกิโลเมตรที่ 42 ประกอบด้วยตลาดย่อย 21 ตลาด",
+   "lat": 14.0819475,
+   "lng": 100.6183884,
+   "coords_source": "https://www.wikidata.org/wiki/Q115858173",
+   "source_url": "https://th.wikipedia.org/wiki/ตลาดไท",
+   "quote": "ถือเป็นตลาดที่มีขนาดใหญ่ที่สุดในประเทศไทย",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/ตลาดไท",
+     "quote": "ประกอบด้วยตลาดย่อย 21 ตลาด"
+    }
+   ]
+  },
+  {
+   "name_en": "Dream World",
+   "name_th": "ดรีมเวิลด์",
+   "name_rtgs": "Dream World",
+   "kind": "amusement park",
+   "why_en": "An outdoor amusement park of about 160 rai in Bueng Yi Tho, Thanyaburi, open since 12 November 1993.",
+   "why_th": "สวนสนุกกลางแจ้งเนื้อที่กว่า 160 ไร่ ตำบลบึงยี่โถ อำเภอธัญบุรี เปิดให้บริการครั้งแรก 12 พฤศจิกายน พ.ศ. 2536",
+   "lat": 13.9875,
+   "lng": 100.675,
+   "coords_source": "https://th.wikipedia.org/wiki/ดรีมเวิลด์",
+   "source_url": "https://th.wikipedia.org/wiki/ดรีมเวิลด์",
+   "quote": "เปิดให้บริการครั้งแรกในวันที่ 12 พฤศจิกายน พ.ศ. 2536"
+  },
+  {
+   "name_en": "National Science Museum Thailand",
+   "name_th": "องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+   "name_rtgs": "Ongkan Phiphitthaphan Witthayasat Haeng Chat",
+   "kind": "science museum",
+   "why_en": "A state enterprise set up 30 January 1995, headquartered at Technopolis in Khlong Ha, Khlong Luang.",
+   "why_th": "รัฐวิสาหกิจที่ตั้งเมื่อ 30 มกราคม พ.ศ. 2538 สำนักงานใหญ่อยู่ที่เทคโนธานี ตำบลคลองห้า อำเภอคลองหลวง",
+   "lat": 14.04861111,
+   "lng": 100.71611111,
+   "coords_source": "https://th.wikipedia.org/wiki/องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+   "source_url": "https://th.wikipedia.org/wiki/องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+   "quote": "เลขที่ 39 หมู่ 3 เทคโนธานี ตำบลคลองห้า อำเภอคลองหลวง จังหวัดปทุมธานี"
+  },
+  {
+   "name_en": "Thailand Science Park",
+   "name_th": "อุทยานวิทยาศาสตร์ประเทศไทย",
+   "name_rtgs": "Utthayan Witthayasat Prathet Thai",
+   "kind": "science park",
+   "why_en": "A science park in Tha Khlong, Khlong Luang, run by NSTDA, set up in 2002.",
+   "why_th": "อุทยานวิทยาศาสตร์ในตำบลท่าโขลง อำเภอคลองหลวง บริหารโดย สวทช. จัดตั้งเมื่อ พ.ศ. 2545",
+   "lat": 14.0786,
+   "lng": 100.6037,
+   "coords_source": "https://en.wikipedia.org/wiki/Thailand_Science_Park",
+   "source_url": "https://en.wikipedia.org/wiki/Thailand_Science_Park",
+   "quote": "Thailand Science Park was set up in 2002."
+  },
+  {
+   "name_en": "Asian Institute of Technology",
+   "name_th": "สถาบันเทคโนโลยีแห่งเอเชีย",
+   "name_rtgs": "Sathaban Theknoloyi Haeng Echia",
+   "kind": "graduate university",
+   "why_en": "An international graduate school at km 42 of Phahonyothin Highway in Khlong Luang, founded 1959 as the SEATO Graduate School of Engineering.",
+   "why_th": "สถาบันอุดมศึกษานานาชาติระดับบัณฑิตศึกษา กิโลเมตรที่ 42 ถนนพหลโยธิน อำเภอคลองหลวง ก่อตั้ง พ.ศ. 2502 เดิมชื่อ SEATO Graduate School of Engineering",
+   "lat": 14.07911667,
+   "lng": 100.61135556,
+   "coords_source": "https://en.wikipedia.org/wiki/Asian_Institute_of_Technology",
+   "source_url": "https://en.wikipedia.org/wiki/Asian_Institute_of_Technology",
+   "quote": "formerly known as the SEATO Graduate School of Engineering , was founded in 1959"
+  },
+  {
+   "name_en": "Rangsit Canal",
+   "name_th": "คลองรังสิตประยูรศักดิ์",
+   "name_rtgs": "Khlong Rangsit Prayurasak",
+   "kind": "canal",
+   "why_en": "The first irrigation project in Siam: dug from 4 March 1890 by the Siam Canals and Irrigation Company, about 56 km long, from the Chao Phraya at Ban Mai east to the Nakhon Nayok River.",
+   "why_th": "โครงการชลประทานแห่งแรกของสยาม บริษัทขุดคลองแลคูนาสยามเริ่มขุดเมื่อ 4 มีนาคม พ.ศ. 2433 ยาวราว 56 กิโลเมตร จากแม่น้ำเจ้าพระยาที่บ้านใหม่ไปทางตะวันออกจรดแม่น้ำนครนายก",
+   "lat": 14.01914722,
+   "lng": 100.73321389,
+   "coords_source": "https://en.wikipedia.org/wiki/Rangsit_Canal",
+   "source_url": "https://en.wikipedia.org/wiki/Rangsit_Canal",
+   "quote": "Rangsit Canal was the first irrigation project in Siam (Thailand).",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/คลองรังสิตประยูรศักดิ์",
+     "quote": "บริษัทได้เริ่มขุดคลองนี้เมื่อวันที่ 4 มีนาคม พ.ศ. 2433"
+    },
+    {
+     "source_url": "https://th.wikipedia.org/wiki/คลองรังสิตประยูรศักดิ์",
+     "quote": "ยาวประมาณ 1,400 เส้น (56 กิโลเมตร )"
+    }
+   ]
+  }
+ ],
+ "culture": [
+  {
+   "name_en": "Provincial motto",
+   "name_th": "คำขวัญประจำจังหวัด",
+   "name_rtgs": "Khamkhwan Pracham Changwat",
+   "what_en": "Official motto, in Thai: ถิ่นบัวหลวง เมืองรวงข้าว เชื้อชาวมอญ นครธรรมะ พระตำหนักรวมใจ สดใสเจ้าพระยา ก้าวหน้าอุตสาหกรรม. Translation: land of the royal lotus; city of rice ears; of Mon descent; city of Dharma; palace that unites hearts; bright Chao Phraya; industry moving forward.",
+   "what_th": "ถิ่นบัวหลวง เมืองรวงข้าว เชื้อชาวมอญ นครธรรมะ พระตำหนักรวมใจ สดใสเจ้าพระยา ก้าวหน้าอุตสาหกรรม",
+   "motto_th": "ถิ่นบัวหลวง เมืองรวงข้าว เชื้อชาวมอญ นครธรรมะ พระตำหนักรวมใจ สดใสเจ้าพระยา ก้าวหน้าอุตสาหกรรม",
+   "motto_en": "Land of the royal lotus; city of rice ears; of Mon descent; city of Dharma; palace that unites hearts; bright Chao Phraya; industry moving forward.",
+   "where": "province",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ถิ่นบัวหลวง เมืองรวงข้าว เชื้อชาวมอญ นครธรรมะ พระตำหนักรวมใจ สดใสเจ้าพระยา ก้าวหน้าอุตสาหกรรม"
+  },
+  {
+   "name_en": "Provincial seal and flower",
+   "name_th": "ตราและดอกไม้ประจำจังหวัด",
+   "name_rtgs": "Tra lae Dokmai Pracham Changwat",
+   "what_en": "The seal shows a pink royal lotus in the centre with golden rice ears on both sides; lotus and rice stand for plentiful crops. The provincial flower is the lotus (bua luang).",
+   "what_th": "ตราจังหวัดเป็นรูปดอกบัวหลวงสีชมพูอยู่ตรงกลางและรวงข้าวสีทองสองข้าง หมายถึงความสมบูรณ์ด้วยพืชพันธุ์ธัญญาหาร ดอกไม้ประจำจังหวัดคือบัวหลวง",
+   "where": "province",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ดอกบัวหลวงสีชมพูอยู่ตรงกลาง และรวงข้าวสีทองอยู่ ๒ ข้าง",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+     "quote": "The provincial flower is the lotus ( Nymphaea lotus )"
+    }
+   ]
+  },
+  {
+   "name_en": "Rap Bua, the lotus-receiving festival",
+   "name_th": "ประเพณีรับบัว",
+   "name_rtgs": "Prapheni Rap Bua",
+   "what_en": "A Mon festival at Sam Khok in the 11th lunar month, when lotus blooms. The Fine Arts Department links the name Pratum Thani to Rama II receiving lotus from the Mon during this festival in 1815.",
+   "what_th": "ประเพณีของชาวมอญที่สามโคกในเดือน 11 ช่วงบัวบาน กรมศิลปากรเชื่อมนามประทุมธานีกับการที่รัชกาลที่ 2 เสด็จรับบัวจากชาวมอญในเทศกาลนี้ พ.ศ. 2358",
+   "where": "Sam Khok",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ในเทศกาลประเพณีรับบัวที่สามโคก"
+  },
+  {
+   "name_en": "Thai-Mon Songkran",
+   "name_th": "สงกรานต์วิถีไทย สำราญใจวิถีมอญ",
+   "name_rtgs": "Songkran Withi Thai Samran Chai Withi Mon",
+   "what_en": "The province holds a Songkran fair in front of the old provincial hall with a Mon piphat music festival, a sand-pagoda contest and a Thai-Raman maiden contest (10-12 April 2018).",
+   "what_th": "จังหวัดจัดงานสงกรานต์หน้าศาลากลางจังหวัดหลังเก่า มีมหกรรมปี่พาทย์มอญ ประกวดก่อพระเจดีย์ทราย และประกวดธิดาไทย-รามัญ (10-12 เมษายน พ.ศ. 2561)",
+   "where": "old provincial hall, Pathum Thani",
+   "source_url": "https://www.thaipost.net/main/detail/6856",
+   "quote": "การจัดมหกรรมปี่พาทย์มอญ และยังมีการประกวดก่อพระเจดีย์ทราย"
+  },
+  {
+   "name_en": "Pathum Thani Mon dance",
+   "name_th": "รำมอญปทุมธานี",
+   "name_rtgs": "Ram Mon Pathum Thani",
+   "what_en": "A 2021 academic article on Pathum Thani Mon dance draws on professional Mon dance troupes and records a dance piece, Mon Rap Sadet (Mon welcome the king), built on the 1815 naming story.",
+   "what_th": "บทความวิชาการ พ.ศ. 2564 ว่าด้วยรำมอญปทุมธานี ใช้ข้อมูลจากคณะรำมอญอาชีพ และบันทึกการแสดงชุด มอญรับเสด็จ ซึ่งสร้างจากเรื่องการพระราชทานนามเมือง พ.ศ. 2358",
+   "where": "province",
+   "source_url": "https://so01.tci-thaijo.org/index.php/humanjubru/article/view/243145",
+   "quote": "การสร้างสรรค์นาฏกรรมจากประวัติศาสตร์และการรำมอญปทุมธานี"
+  },
+  {
+   "name_en": "Mon, Chinese and Muslim communities",
+   "name_th": "ไทยรามัญ ไทยจีน ไทยมุสลิม",
+   "name_rtgs": "Thai Raman, Thai Chin, Thai Muslim",
+   "what_en": "Three main groups live in the province: Thai-Raman (Mon), Thai-Chinese and Thai-Muslim. The Mon are densest in Sam Khok district.",
+   "what_th": "จังหวัดมีสามกลุ่มหลักคือไทยรามัญ ไทยจีน และไทยมุสลิม ชาวมอญตั้งถิ่นฐานหนาแน่นในอำเภอสามโคก",
+   "where": "province; Sam Khok",
+   "source_url": "https://www.thaipost.net/main/detail/6856",
+   "quote": "ไทยรามัญ ไทยจีน และ ไทยมุสลิม",
+   "also": [
+    {
+     "source_url": "https://www.thaipost.net/main/detail/6856",
+     "quote": "ส่วนใหญ่ตั้งถิ่นฐานอยู่กันหนาแน่นในอำเภอสามโคก"
+    },
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+     "quote": "heavily populated by the Mon people"
+    }
+   ]
+  },
+  {
+   "name_en": "Mon earthenware of Sam Khok",
+   "name_th": "เครื่องปั้นดินเผามอญสามโคก",
+   "name_rtgs": "Khrueang Pan Din Phao Mon Sam Khok",
+   "what_en": "Sam Khok is known for Mon earthenware jars. Mon settlers near Wat Sing found old kilns that fired large jars (ong ang).",
+   "what_th": "สามโคกมีชื่อเรื่องตุ่มโอ่งดินเผาของชาวมอญ ชาวรามัญที่ตั้งบ้านเรือนใกล้วัดสิงห์พบเตาโบราณเผาโอ่งอ่าง",
+   "where": "Sam Khok",
+   "source_url": "https://en.wikipedia.org/wiki/Sam_Khok_district",
+   "quote": "Sam Khok is still known for its Mon earthenware jars",
+   "also": [
+    {
+     "source_url": "https://th.wikipedia.org/wiki/ตำบลสามโคก",
+     "quote": "ได้พบเตาโบราณเผา"
+    }
+   ]
+  },
+  {
+   "name_en": "City pillar shrine",
+   "name_th": "ศาลหลักเมืองปทุมธานี",
+   "name_rtgs": "San Lak Mueang Pathum Thani",
+   "what_en": "The province has no city pillar until Governor Suthi Ob-om builds a shrine; the pillar is raised on Wednesday 23 August 1978 in front of the provincial hall.",
+   "what_th": "จังหวัดไม่เคยมีศาลหลักเมือง จนผู้ว่าราชการจังหวัดดำริสร้าง ประกอบพิธียกเสาหลักเมืองเมื่อวันพุธที่ 23 สิงหาคม พ.ศ. 2521 หน้าศาลากลางจังหวัด",
+   "where": "Pathum Thani city",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ประกอบพิธียกเสาหลักเมืองจังหวัดปทุมธานี เมื่อวันพุธที่ 23 สิงหาคม พ.ศ. 2521",
+   "also": [
+    {
+     "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+     "quote": "ไม่เคยมีศาลหลักเมืองมาก่อนเหมือนเมืองอื่นๆ"
+    }
+   ]
+  }
+ ],
+ "food": [
+  {
+   "name_en": "Khao chae (Mon Songkran rice)",
+   "name_th": "ข้าวแช่มอญ",
+   "name_rtgs": "Khao Chae Mon",
+   "what_en": "Cooled rice in scented water served with seven side dishes: fried shrimp-paste balls, sweet fish powder, pickled garlic fried with egg, sweet fried mustard greens, young jackfruit salad, salted crab and green mango salad, and fried noodles. The Mon name is peng Songkran; it is offered to the spirits and to monks at Songkran.",
+   "what_th": "ข้าวสุกแช่น้ำเย็นลอยดอกไม้ กินกับเครื่องเคียงเจ็ดอย่าง ได้แก่ กะปิทอด ปลาป่นหวาน กระเทียมดองผัดไข่ ผักกาดหวานผัด ยำขนุนอ่อน ยำปูเค็มกับมะม่วงดิบ และก๋วยเตี๋ยวผัด ภาษามอญเรียกเปิงซังกรานต์ ทำถวายเทวดาและพระสงฆ์ในเทศกาลสงกรานต์",
+   "where": "Mon households and Songkran fairs in Pathum Thani",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "ข้าวแช่มอญเมืองปทุมธานี ซึ่งแต่เดิมเป็นอาหารที่เกี่ยวข้องกับพิธีกรรม",
+   "also": [
+    {
+     "source_url": "https://www.thaipost.net/main/detail/6856",
+     "quote": "ข้าวแช่เป็นอาหารในพิธีกรรมบูชาเทวดาของชาวมอญในเทศกาลสงกรานต์"
+    },
+    {
+     "source_url": "https://th.wikipedia.org/wiki/ข้าวแช่",
+     "quote": "ซึ่งมักเป็นน้ำดอกไม้"
+    }
+   ]
+  },
+  {
+   "name_en": "Boat noodles",
+   "name_th": "ก๋วยเตี๋ยวเรือ",
+   "name_rtgs": "Kuaitiao Ruea",
+   "what_en": "Noodles in small bowls with a little strong broth. Shops line the Rangsit-Nakhon Nayok road.",
+   "what_th": "ก๋วยเตี๋ยวชามเล็ก น้ำซุปน้อยแต่เข้มข้น มีขายตามริมเส้นทางรังสิต-นครนายก",
+   "where": "Rangsit-Nakhon Nayok road",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "โดยเฉพาะริมเส้นทางรังสิต-นครนายก"
+  },
+  {
+   "name_en": "Mon rice cracker with sesame",
+   "name_th": "ข้าวเกรียบมอญโบราณ (ข้าวเกรียบงาปิ้ง)",
+   "name_rtgs": "Khao Kriap Mon Boran (Khao Kriap Nga Ping)",
+   "what_en": "A traditional Mon snack made by descendants of Mon who came from Hongsawadi and settled around Pathum Thani city and Sam Khok.",
+   "what_th": "ขนมกินเล่นดั้งเดิมของชาวมอญที่อพยพจากหงสาวดี มาตั้งถิ่นฐานบริเวณเมืองปทุมธานีและอำเภอสามโคก",
+   "where": "Pathum Thani city; Sam Khok",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "ข้าวเกรียบมอญโบราณ หรือเรียกอีกอย่างหนึ่งว่า ข้าวเกรียบงาปิ้ง"
+  },
+  {
+   "name_en": "Kalamae",
+   "name_th": "กาละแม",
+   "name_rtgs": "Kalamae",
+   "what_en": "A sweet of glutinous rice, sugar and coconut milk, made for Songkran and merit-making. Pathum Thani has a long name for making it.",
+   "what_th": "ขนมข้าวเหนียว น้ำตาลทราย กะทิ ทำในเทศกาลสงกรานต์และงานบุญ ชาวปทุมธานีมีชื่อเรื่องฝีมือทำกาละแมมานาน",
+   "where": "province",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "ชาวปทุมธานีได้ชื่อว่ามีฝีมือการทำกาละแมมาเนิ่นนาน"
+  },
+  {
+   "name_en": "Sun-dried catfish",
+   "name_th": "ปลาดุกแดดเดียว",
+   "name_rtgs": "Pla Duk Daet Diao",
+   "what_en": "Catfish dried for one day, fried, curried or cooked other ways. Pathum Thani has large catfish farms.",
+   "what_th": "ปลาดุกตากแดดหนึ่งวัน นำไปทอด แกง หรือปรุงอย่างอื่น ปทุมธานีมีเกษตรกรเลี้ยงปลาดุกรายใหญ่",
+   "where": "province",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "ปทุมธานีเป็นแหล่งที่มีเกษตรกรเพาะเลี้ยงปลาดุกแหล่งใหญ่"
+  },
+  {
+   "name_en": "Grilled river prawn",
+   "name_th": "กุ้งแม่น้ำเผา",
+   "name_rtgs": "Kung Maenam Phao",
+   "what_en": "Large fresh river prawns grilled and eaten with a spicy dip, served by the Chao Phraya.",
+   "what_th": "กุ้งแม่น้ำสดตัวใหญ่เผา จิ้มน้ำจิ้มรสแซ่บ กินริมแม่น้ำเจ้าพระยา",
+   "where": "Chao Phraya riverside",
+   "source_url": "https://www.naewna.com/lady/519506",
+   "quote": "นำมาทำเมนูกุ้งแม่น้ำเผา"
+  },
+  {
+   "name_en": "Khao Hom Pathum Thani (fragrant rice)",
+   "name_th": "ข้าวหอมปทุมธานี",
+   "name_rtgs": "Khao Hom Pathum Thani",
+   "what_en": "Registered geographical indication since 4 December 2017: paddy, brown and white rice milled from the Pathum Thani 1 variety, long slender grain, soft and slightly sticky when cooked, faint fragrance.",
+   "what_th": "สิ่งบ่งชี้ทางภูมิศาสตร์ขึ้นทะเบียน 4 ธันวาคม พ.ศ. 2560 ข้าวเปลือก ข้าวกล้อง และข้าวขาวจากข้าวพันธุ์ปทุมธานี 1 เมล็ดเรียวยาว หุงสุกนุ่มค่อนข้างเหนียว กลิ่นหอมอ่อน",
+   "where": "grown in Pathum Thani",
+   "source_url": "https://webnew.ipthailand.go.th/wp-content/uploads/2026/03/gi_GI64100162.pdf",
+   "quote": "ที่แปรรูปมาจากข้าวพันธุ์ปทุมธานี 1",
+   "also": [
+    {
+     "source_url": "https://webnew.ipthailand.go.th/wp-content/uploads/2026/03/gi_GI64100162.pdf",
+     "quote": "วันที่ขึ้นทะเบียน 4 ธันวาคม 2560"
+    }
+   ]
+  },
+  {
+   "name_en": "Rangsit tangerine",
+   "name_th": "ส้มรังสิต (ส้มเขียวหวาน)",
+   "name_rtgs": "Som Rangsit (Som Khieo Wan)",
+   "what_en": "Growers move tangerine planting to Thung Rangsit in 1967 and the fruit takes the name Rangsit tangerine. Along the Rangsit canal the area is once the largest tangerine-growing area in Thailand, about 150,000 rai and 80% of national output; few orchards remain.",
+   "what_th": "หลัง พ.ศ. 2510 ชาวสวนย้ายมาปลูกส้มเขียวหวานที่ทุ่งรังสิต เริ่มที่คลองสอง ธัญบุรี จนได้ชื่อว่าส้มรังสิต ในอดีตเป็นพื้นที่ปลูกส้มใหญ่ที่สุดของประเทศ ราว 150,000 ไร่ ปัจจุบันสวนส้มเหลืออยู่น้อย",
+   "where": "Thung Rangsit, Thanyaburi and Nong Suea",
+   "source_url": "https://th.wikipedia.org/wiki/ส้มเขียวหวาน",
+   "quote": "จึงได้เปลี่ยนมาปลูกที่ ทุ่งรังสิต โดยเริ่มที่คลองสอง ธัญบุรี",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Rangsit_Canal",
+     "quote": "largest tangerine growing area in Thailand"
+    }
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label_en": "Area",
+   "label_th": "เนื้อที่",
+   "value": "1,525.856 km2 (about 953,660 rai)",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "มีเนื้อที่ประมาณ ๑,๕๒๕.๘๕๖ ตารางกิโลเมตร"
+  },
+  {
+   "label_en": "Population, 2024",
+   "label_th": "ประชากร พ.ศ. 2567",
+   "value": "1,236,471 (2024); 17th among provinces",
+   "source_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+   "quote": "Population (2024) [ 2 ] • Total 1,236,471"
+  },
+  {
+   "label_en": "Population, 2023 (Thai Wikipedia)",
+   "label_th": "ประชากร พ.ศ. 2566",
+   "value": "1,219,199 (BE 2566); 16th among provinces",
+   "source_url": "https://th.wikipedia.org/wiki/จังหวัดปทุมธานี",
+   "quote": "ประชากร (พ.ศ. 2566) [ 2 ] • ทั้งหมด 1,219,199 คน"
+  },
+  {
+   "label_en": "Districts, subdistricts, villages",
+   "label_th": "อำเภอ ตำบล หมู่บ้าน",
+   "value": "7 amphoe, 60 tambon, 529 villages",
+   "source_url": "https://th.wikipedia.org/wiki/จังหวัดปทุมธานี",
+   "quote": "ออกเป็น 7 อำเภอ 60 ตำบล 529 หมู่บ้าน"
+  },
+  {
+   "label_en": "Rename from Sam Khok to Pratum Thani (Thai Wikipedia, academic article)",
+   "label_th": "วันเปลี่ยนชื่อเมืองสามโคกเป็นประทุมธานี (วิกิพีเดียไทย)",
+   "value": "23 August 1815 (BE 2358)",
+   "source_url": "https://th.wikipedia.org/wiki/จังหวัดปทุมธานี",
+   "quote": "วันที่ 23 สิงหาคม พ.ศ. 2358 พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย"
+  },
+  {
+   "label_en": "Rename date per Fine Arts Department",
+   "label_th": "วันพระราชทานนามตามกรมศิลปากร",
+   "value": "Exact date not recorded; inferred 16 October 1815",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ตรงกับวันที่ 16 ตุลาคม พ.ศ.2358",
+   "also": [
+    {
+     "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+     "quote": "ยังไม่พบหลักฐานที่ชัดเจนในการบันทึกเรื่องนี้"
+    }
+   ]
+  },
+  {
+   "label_en": "Distance from Bangkok",
+   "label_th": "ระยะทางจากกรุงเทพมหานคร",
+   "value": "about 27.8 km north along Phahonyothin Road (Highway 1)",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ตามทางหลวงแผ่นดินหมายเลข ๑ (ถนนพหลโยธิน) เป็นระยะทางประมาณ ๒๗.๘ กิโลเมตร"
+  },
+  {
+   "label_en": "Chao Phraya through the province",
+   "label_th": "แม่น้ำเจ้าพระยาไหลผ่านจังหวัด",
+   "value": "about 30 km, through Mueang Pathum Thani and Sam Khok districts",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ซึ่งไหลผ่านอำเภอเมืองและอำเภอสามโคก ระยะทางประมาณ ๓๐ กิโลเมตร"
+  },
+  {
+   "label_en": "Natural and irrigation canals",
+   "label_th": "คลองธรรมชาติและคลองชลประทาน",
+   "value": "about 84 canals, about 1,062.4 km in total",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "ประมาณ ๘๔ คลอง รวมความยาวประมาณ ๑,๐๖๒.๔ กิโลเมตร"
+  },
+  {
+   "label_en": "Rangsit canal length",
+   "label_th": "ความยาวคลองรังสิต",
+   "value": "about 56 km (1,400 sen); digging starts 4 March 1890 (BE 2433)",
+   "source_url": "https://th.wikipedia.org/wiki/คลองรังสิตประยูรศักดิ์",
+   "quote": "ยาวประมาณ 1,400 เส้น (56 กิโลเมตร )"
+  },
+  {
+   "label_en": "Talat Thai",
+   "label_th": "ตลาดไท",
+   "value": "542 rai, 21 sub-markets, largest market in Thailand",
+   "source_url": "https://th.wikipedia.org/wiki/ตลาดไท",
+   "quote": "บนพื้นที่ 542 ไร่ ถือเป็นตลาดที่มีขนาดใหญ่ที่สุดในประเทศไทย"
+  },
+  {
+   "label_en": "Openbill storks counted at Wat Phai Lom and Wat Ampuwararam, 1996",
+   "label_th": "นกปากห่างที่สำรวจพบ พ.ศ. 2539",
+   "value": "84,788 birds",
+   "source_url": "https://pathumthani.moc.go.th/th/content/page/index/id/1055",
+   "quote": "พบจำนวน ๘๔,๗๘๘ ตัว"
+  },
+  {
+   "label_en": "Provincial economic output, 2023",
+   "label_th": "ผลิตภัณฑ์มวลรวมจังหวัด พ.ศ. 2566",
+   "value": "460.312 billion baht; manufacturing 46.6%",
+   "source_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+   "quote": "Pathum Thani province had an economic output of 460.312 billion baht",
+   "also": [
+    {
+     "source_url": "https://en.wikipedia.org/wiki/Pathum_Thani_province",
+     "quote": "or 46.6% of GPP"
+    }
+   ]
+  },
+  {
+   "label_en": "Smallest district",
+   "label_th": "อำเภอที่เล็กที่สุด",
+   "value": "Sam Khok, 94.967 km2",
+   "source_url": "https://th.wikipedia.org/wiki/อำเภอสามโคก",
+   "quote": "เป็น อำเภอ ที่มีขนาดเล็กที่สุดของ จังหวัดปทุมธานี"
+  }
+ ],
+ "notes": [
+  "Rename date: Thai Wikipedia and a 2021 academic article give 23 August 1815 (BE 2358). The Fine Arts Department, as quoted on the Ministry of Commerce provincial page, says the day is not recorded and infers 16 October 1815. 23 August 1978 is the city-pillar ceremony. Both dates are listed.",
+  "Mon arrival at Sam Khok: BE 2202 (Mang Nanthamit, Ministry of Commerce page and Thai Wikipedia province page) versus BE 2203 / 1660 (Thai Wikipedia Sam Khok district page, English Wikipedia Sam Khok district page). English Wikipedia province page says around 1650.",
+  "Spelling and status change from muang to changwat with the spelling Pathum: BE 2459 (Ministry of Commerce page) versus BE 2461 (Thai Wikipedia). Not used as a number.",
+  "Hong pole: the cited page describes Mon temples in Thailand in general and does not name a Pathum Thani temple.",
+  "Names given as the source writes them: Phaya Cheng-Talaseng.",
+  "Not found in a fetchable source: life dates for Prince Sai Snidvongs and Erwin Müller; any ghost story tied to Pathum Thani; the meaning and source of the term ee-loeng; a source on the ancient town at Thung Phaya Mueang (the Thai Wikipedia Sam Khok district page places the first Sam Khok town at the abandoned Wat Phaya Mueang near Wat Pa Ngio, left empty after Ayutthaya fell in 1569); Thammasat Rangsit, a Thai rice museum and lotus farms were not cited.",
+  "silpa-mag.com returned 403 to every fetch and is not cited.",
+  "Coordinates come from Wikidata or Wikipedia pages named in coords_source; they are the sources' points, not surveyed positions."
+ ]
+}

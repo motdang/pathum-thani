@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "pathum-thani",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8981", "--bind", "127.0.0.1", "--directory", "/Users/annikapeacock/Developer/claude code projects/mot-dang/assets"],
+      "port": 8981
+    }
+  ]
+}
